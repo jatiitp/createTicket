@@ -1,2 +1,2 @@
 # createTicket
-Testing Url : vinodjat.com:8086
+Testing Url :  http://vinodjat.com:8086/
