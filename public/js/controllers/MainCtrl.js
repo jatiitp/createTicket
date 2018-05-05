@@ -1,5 +1,5 @@
 angular.module('MainCtrl', []).controller('MainController', function($scope) {
 
-	$scope.tagline = 'Welcome to Callhub';	
+	$scope.tagline = 'Welcome to The Jungle';	
 
 });
